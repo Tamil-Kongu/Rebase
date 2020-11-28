@@ -5,3 +5,4 @@ In branch b2 - commit -2
 In master - commit-3
 
 Finally in master-commit1
+commit-2
