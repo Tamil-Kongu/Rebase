@@ -1,3 +1,4 @@
 Rebase command working -1
 Branch r1 addition
 Again master addition
+Master addition two
